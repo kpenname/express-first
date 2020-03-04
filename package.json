@@ -1,0 +1,22 @@
+{
+  "name": "express-first",
+  "version": "1.0.0",
+  "description": "first express sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpenname/express-first.git"
+  },
+  "author": "Karen Fahey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpenname/express-first/issues"
+  },
+  "homepage": "https://github.com/kpenname/express-first#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
